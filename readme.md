@@ -115,5 +115,5 @@ streamlit run app.py
 
 ## 开发
 
-本项目全部代码借助 **OpenAI Codex CLI** 辅助开发，历经八个迭代阶段完成。
+本项目代码借助 **OpenAI Codex** 辅助开发，历经八个迭代阶段完成。
 
