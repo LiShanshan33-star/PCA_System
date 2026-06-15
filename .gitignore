@@ -17,8 +17,10 @@ Thumbs.db
 
 # Report outputs (generated)
 *.pdf
-实验报告*.docx
+瀹為獙鎶ュ憡*.docx
 
 # Temp files
 temp_*.txt
 temp_*.py
+# API keys
+config.py
