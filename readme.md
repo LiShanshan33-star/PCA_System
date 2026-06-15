@@ -117,6 +117,3 @@ streamlit run app.py
 
 本项目全部代码借助 **OpenAI Codex CLI** 辅助开发，历经八个迭代阶段完成。
 
-## License
-
-MIT License
